@@ -6,7 +6,7 @@
 
 * [Google Форма "Разгон мозга. Насколько хорошо вы учили алгебру в школе?"](https://goo.gl/forms/3SIshvRS30SK1lfY2 "Google Form")
 
-* [Google таблица с данными опроса](https://docs.google.com/spreadsheets/d/1xjHAudlEfdnROkPelSDQqd7u8RKeDknIgl_CJ4OWBNk/edit#gid=1894547572&fvid=2105015429 "Google Spreadsheet")
+* [Google таблица с данными опроса](https://docs.google.com/spreadsheets/d/1xjHAudlEfdnROkPelSDQqd7u8RKeDknIgl_CJ4OWBNk/edit#gid=1894547572 "Google Spreadsheet")
 
 ## Выводы
 
